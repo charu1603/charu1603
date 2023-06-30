@@ -3,7 +3,7 @@
 </br>
 - 📫 How to reach me **kakdechaitrali16@gmail.com**
 </br> </br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charu1603" alt="charu1603" /></a> 
+
 </p></br>
 <img align="right" width="38%" src="https://wallpapers.com/images/high/android-developer-e4vtzh26g3ch9kel.webp"/>
 <h3 align="left">Connect with me:</h3></br>
