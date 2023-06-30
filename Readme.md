@@ -4,7 +4,7 @@
 - 📫 How to reach me **kakdechaitrali16@gmail.com**
 </br>
 
-<img align="right" width="38%" src="https://wallpapers.com/images/high/android-developer-e4vtzh26g3ch9kel.webp"/>
+
 <h3 align="left">Connect with me:</h3></br>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chaitrali-kakde-042396203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaitrali-kakde-042396203/" height="30" width="40" /></a>
