@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitrali Kakde</h1>
 <h3 align="center">A passionate frontend developer and open-source enthusiast.</h3>
 </br>
-- 📫 How to reach me **kakdechaitrali16@gmail.com**
+- 📫 How to reach me :-  kakdechaitrali16@gmail.com
 </br>
 
 
